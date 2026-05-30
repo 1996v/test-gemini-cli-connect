@@ -1,6 +1,6 @@
 # gemini-cli-connect
 
-Connect [Gemini CLI](https://github.com/google-gemini/gemini-cli) to Telegram. Run Gemini as a background daemon and interact with it from your phone — send messages, photos, documents, voice notes, and get full agentic responses with tool execution.
+Connect [Gemini CLI](https://github.com/google-gemini/gemini-cli) to Telegram. Run Gemini as a background daemon and interact with it from your phone — send messages, photos, documents, voice notes, and get full agentic responses with tool execution.山东省地方收到
 
 Built on top of [`@google/gemini-cli-core`](https://www.npmjs.com/package/@google/gemini-cli-core), the same engine that powers the Gemini CLI.
 
@@ -14,7 +14,7 @@ Or install globally:
 
 ```bash
 npm install -g gemini-cli-connect
-gemini-cli-connect start
+gemini-cli-connect start灌灌灌灌灌
 ```
 
 On first run, a setup wizard will guide you through:
